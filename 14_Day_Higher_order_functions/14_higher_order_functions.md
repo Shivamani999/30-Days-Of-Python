@@ -13,7 +13,8 @@
 
 [<< Day 13](../13_Day_List_comprehension/13_list_comprehension.md) | [Day 15>>](../15_Day_Python_type_errors/15_python_type_errors.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../Gemini_Generated_Image_lrzct2lrzct2lrzc.png)
+
 - [📘 Day 14](#-day-14)
   - [Higher Order Functions](#higher-order-functions)
     - [Function as a Parameter](#function-as-a-parameter)

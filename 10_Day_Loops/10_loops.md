@@ -8,10 +8,11 @@
 <a href="https://www.linkedin.com/in/smk99" target="_blank">Konam Shivamani</a><br>
 <small> First Edition: Feb, 2026</small>
 </sub>
+</div>
 
 [<< Day 9](../09_Day_Conditionals/09_conditionals.md) | [Day 11 >>](../11_Day_Functions/11_functions.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../Gemini_Generated_Image_lrzct2lrzct2lrzc.png)
 
 - [📘 Day 10](#-day-10)
   - [Loops](#loops)

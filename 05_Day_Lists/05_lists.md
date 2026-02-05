@@ -13,7 +13,7 @@
 
 [<< Day 4](../04_Day_Strings/04_strings.md) | [Day 6 >>](../06_Day_Tuples/06_tuples.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../Gemini_Generated_Image_lrzct2lrzct2lrzc.png)
 
 - [Day 5](#day-5)
   - [Lists](#lists)

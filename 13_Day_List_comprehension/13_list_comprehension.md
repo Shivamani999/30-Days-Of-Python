@@ -14,7 +14,7 @@
 
 [<< Day 12](../12_Day_Modules/12_modules.md) | [Day 14>>](../14_Day_Higher_order_functions/14_higher_order_functions.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../Gemini_Generated_Image_lrzct2lrzct2lrzc.png)
 
 - [📘 Day 13](#-day-13)
   - [List Comprehension](#list-comprehension)

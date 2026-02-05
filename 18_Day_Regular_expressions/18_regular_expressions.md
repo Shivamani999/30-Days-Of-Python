@@ -12,7 +12,7 @@
 
 [<< Day 17](../17_Day_Exception_handling/17_exception_handling.md) | [Day 19>>](../19_Day_File_handling/19_file_handling.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../Gemini_Generated_Image_lrzct2lrzct2lrzc.png)
 
 - [📘 Day 18](#-day-18)
   - [Regular Expressions](#regular-expressions)

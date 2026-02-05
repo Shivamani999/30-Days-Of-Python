@@ -12,7 +12,7 @@
 
 [<< Day 19](../19_Day_File_handling/19_file_handling.md) | [Day 21 >>](../21_Day_Classes_and_objects/21_classes_and_objects.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../Gemini_Generated_Image_lrzct2lrzct2lrzc.png)
 
 - [📘 Day 20](#-day-20)
   - [Python PIP - Python Package Manager](#python-pip---python-package-manager)

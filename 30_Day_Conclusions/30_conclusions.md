@@ -13,7 +13,8 @@
 </div>
 
 [<< Day 29](../29_Day_Building_API/29_building_API.md)
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+
+![30DaysOfPython](../Gemini_Generated_Image_lrzct2lrzct2lrzc.png)
 
 - [Day 30](#day-30)
   - [Conclusions](#conclusions)
