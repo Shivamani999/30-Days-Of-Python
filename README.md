@@ -1,5 +1,7 @@
 # 🐍 30 Days Of Python 
 
+![30DaysOfPython](../Gemini_Generated_Image_lrzct2lrzct2lrzc.png)
+
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
@@ -46,40 +48,6 @@
 <small> First Edition: Feb, 2026</small>
 </sub>
 </div>
-
-
-[Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
-
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
-
-- [🐍 30 Days Of Python](#-30-days-of-python)
-- [📘 Day 1](#-day-1)
-  - [Welcome](#welcome)
-  - [Introduction](#introduction)
-  - [Why Python ?](#why-python-)
-  - [Environment Setup](#environment-setup)
-    - [Installing Python](#installing-python)
-    - [Python Shell](#python-shell)
-    - [Installing Visual Studio Code](#installing-visual-studio-code)
-      - [How to use visual studio code](#how-to-use-visual-studio-code)
-  - [Basic Python](#basic-python)
-    - [Python Syntax](#python-syntax)
-    - [Python Indentation](#python-indentation)
-    - [Comments](#comments)
-    - [Data types](#data-types)
-      - [Number](#number)
-      - [String](#string)
-      - [Booleans](#booleans)
-      - [List](#list)
-      - [Dictionary](#dictionary)
-      - [Tuple](#tuple)
-      - [Set](#set)
-    - [Checking Data types](#checking-data-types)
-    - [Python File](#python-file)
-  - [💻 Exercises - Day 1](#-exercises---day-1)
-    - [Exercise: Level 1](#exercise-level-1)
-    - [Exercise: Level 2](#exercise-level-2)
-    - [Exercise: Level 3](#exercise-level-3)
 
 # 📘 Day 1
 
@@ -442,4 +410,4 @@ To run the python file check the image below. You can run the python file either
 
 🎉 CONGRATULATIONS ! 🎉
 
-[Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+[Day 2 >>](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
