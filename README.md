@@ -1,6 +1,6 @@
 # 🐍 30 Days Of Python 
 
-![30DaysOfPython](../Gemini_Generated_Image_lrzct2lrzct2lrzc.png)
+![30DaysOfPython](./Gemini_Generated_Image_lrzct2lrzct2lrzc.png)
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
